@@ -1,0 +1,83 @@
+SCHOOL YEAR,COUNTY NUMBER,COUNTY NAME,DISTRICT NUMBER,DISTRICT NAME,SCHOOL NUMBER,SCHOOL NAME,SCHOOL CODE,STATE SCHOOL ID,NCES ID,CO-OP,CO-OP CODE,SCHOOL TYPE,SUBJECT,GRADE,DEMOGRAPHIC,LEVEL,PERCENT OF STUDENTS BELOW BASIC LEVEL,PERCENT OF STUDENTS AT BASIC LEVEL,PERCENT PROFICIENT,PERCENT OF STUDENTS AT ADVANCED LEVEL,PARTICIPATION RATE
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,All Students,Kentucky,38,31,23,8,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,All Students,Nation,39,29,24,8,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,All Students,Kentucky,25,42,27,6,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,All Students,Nation,24,41,28,7,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,All Students,Kentucky,32,39,26,3,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,All Students,Nation,32,39,26,3,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,All Students,Kentucky,43,36,17,4,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,All Students,Nation,40,34,19,7,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","","",.,All Students,"","",.,.,.,""
+20212022,"","",999,State,"",---State Total---,999,"","","","","","",.,All Students,"","",.,.,.,""
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Female,Nation,36,30,25,9,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Female,Kentucky,36,32,24,8,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Female,Nation,36,30,25,9,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Female,Kentucky,36,32,24,8,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Female,Kentucky,26,44,26,4,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Female,Nation,28,41,26,5,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Female,Nation,40,36,18,6,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Female,Kentucky,42,38,16,4,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Male,Nation,42,28,22,8,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Male,Kentucky,40,30,23,7,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Male,Kentucky,24,41,28,7,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Male,Nation,24,37,30,9,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Male,Nation,42,28,22,8,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Male,Kentucky,40,30,23,7,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Male,Nation,39,34,19,8,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Male,Kentucky,44,33,18,5,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,African American,Nation,48,37,14,1,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,African American,Kentucky,52,36,.,.,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,African American,Kentucky,52,39,8,1,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,African American,Nation,46,39,14,1,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,African American,Nation,62,29,8,1,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,African American,Kentucky,68,23,.,.,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,African American,Nation,57,27,14,2,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,African American,Kentucky,58,27,13,2,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Asian,Kentucky,30,29,29,12,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Asian,Nation,20,25,32,23,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Asian,Nation,15,30,43,12,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Asian,Kentucky,**,.,.,.,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Hispanic or Latino,Kentucky,49,29,18,4,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Hispanic or Latino,Nation,51,29,16,4,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Hispanic or Latino,Kentucky,33,45,19,3,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Hispanic or Latino,Nation,37,42,19,2,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Hispanic or Latino,Kentucky,36,38,25,1,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Hispanic or Latino,Nation,40,40,19,1,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Hispanic or Latino,Kentucky,56,30,11,3,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Hispanic or Latino,Nation,52,34,12,2,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Native Hawaiian or Pacific Islander,Nation,16,28,30,26,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Native Hawaiian or Pacific Islander,Kentucky,**,.,.,.,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Native Hawaiian or Pacific Islander,Kentucky,13,32,29,26,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Native Hawaiian or Pacific Islander,Nation,11,27,38,24,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,White (non-Hispanic),Kentucky,29,39,28,4,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,White (non-Hispanic),Nation,23,40,33,4,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,White (non-Hispanic),Kentucky,34,32,25,9,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,White (non-Hispanic),Nation,28,31,30,11,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,White (non-Hispanic),Nation,15,38,37,10,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,White (non-Hispanic),Kentucky,21,43,30,6,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,White (non-Hispanic),Kentucky,38,38,19,5,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,White (non-Hispanic),Nation,28,38,25,9,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Economically Disadvantaged,Nation,52,29,16,3,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Economically Disadvantaged,Kentucky,54,34,11,1,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Economically Disadvantaged,Nation,54,33,11,2,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Economically Disadvantaged,Kentucky,49,30,18,3,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Economically Disadvantaged,Kentucky,34,47,17,2,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Economically Disadvantaged,Nation,38,42,18,2,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Economically Disadvantaged,Nation,52,29,16,3,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Economically Disadvantaged,Kentucky,49,30,18,3,N/A
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Students with Disabilities (IEP),Nation,65,26,8,1,90
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Students with Disabilities (IEP),Nation,73,20,6,1,91
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,Students with Disabilities (IEP),Kentucky,75,19,.,.,85
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Students with Disabilities (IEP),Kentucky,55,31,11,3,90
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,Students with Disabilities (IEP),Nation,54,31,13,2,90
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Students with Disabilities (IEP),Nation,71,18,9,2,89
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,Students with Disabilities (IEP),Kentucky,66,22,10,2,84
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,Students with Disabilities (IEP),Kentucky,68,25,6,1,86
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,English Learner,Nation,67,23,9,1,95
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,04,English Learner,Kentucky,70,25,.,.,90
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,English Learner,Nation,69,26,.,.,93
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,English Learner,Kentucky,46,45,.,.,94
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,04,English Learner,Nation,48,38,13,1,95
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,English Learner,Nation,76,20,.,.,94
+20212022,"","",999,State,"",---State Total---,999,"","","","","",RD,08,English Learner,Kentucky,74,24,.,.,88
+20212022,"","",999,State,"",---State Total---,999,"","","","","",MA,08,English Learner,Kentucky,88,11,.,.,91
